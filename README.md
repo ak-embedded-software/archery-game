@@ -1,3 +1,9 @@
+<div align="center">
+  
+![Repo Traffic](https://komarev.com/ghpvc/?username=archery-game&label=Repo+Traffic&color=blue&style=flat-square)
+
+</div>
+
 # Archery Game - Build on AK Embedded Base Kit
 ## Gameplay Demo
 
